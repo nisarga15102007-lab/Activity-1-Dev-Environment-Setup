@@ -1,0 +1,7 @@
+1. Installed Visual Studio Code for C/C++ programming.
+2. Installed the Microsoft C/C++ extension.
+3. Installed and configured MinGW-w64 compiler.
+4. Added the GCC compiler path to Windows PATH.
+5. Verified the installation using gcc --version.
+6. Created hello.c and compiled it using gcc.
+7. Successfully executed the program and obtained Hello, World! as output.
